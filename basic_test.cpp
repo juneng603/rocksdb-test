@@ -35,5 +35,7 @@ int main() {
 
     print_result(db);
 
+    delete db;
+
     return 0;
 }
